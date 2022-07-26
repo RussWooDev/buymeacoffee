@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# Buy Me A Coffee DApp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This is a coffee tipping dapp deployed on the testnet. 
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+See a functioning version here: https://buymeacoffee-solidity-defi-tipping-app.leanpanda.repl.co/
